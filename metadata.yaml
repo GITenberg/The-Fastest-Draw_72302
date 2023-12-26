@@ -1,0 +1,25 @@
+_repo: The-Fastest-Draw_72302
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eisenberg, Larry
+    gutenberg_agent_id: '56644'
+    url: http://www.gutenberg.org/2009/agents/56644
+description: ''
+gutenberg_issued: '2023-12-03'
+identifiers:
+  gutenberg: '72302'
+language: en
+pgterms:marc905: 20231125101009eisenberg
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Fastest Draw
+url: http://www.gutenberg.org/ebooks/72302
