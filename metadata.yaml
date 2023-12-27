@@ -1,11 +1,16 @@
 _repo: The-Fastest-Draw_72302
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72302-h/images/cover.jpg
 creator:
   author:
     agent_name: Eisenberg, Larry
     gutenberg_agent_id: '56644'
     url: http://www.gutenberg.org/2009/agents/56644
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72302#The-Fastest-Draw
 gutenberg_issued: '2023-12-03'
 identifiers:
   gutenberg: '72302'
